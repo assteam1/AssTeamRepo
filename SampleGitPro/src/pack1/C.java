@@ -12,7 +12,10 @@ public class C {
 		System.out.println(a*b*c);
 	}
 	public void m8() {
-		System.out.println("conflict");
+		System.out.println("push");
+	}
+	public void m9() {
+		System.out.println("i am sathish");
 	}
 	public static void main(String[] args) {
 		C a=new C();
