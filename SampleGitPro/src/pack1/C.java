@@ -11,6 +11,9 @@ public class C {
 	public void mul() {
 		System.out.println(a*b*c);
 	}
+	public void m8() {
+		System.out.println("push");
+	}
 	public static void main(String[] args) {
 		C a=new C();
 		a.add();
