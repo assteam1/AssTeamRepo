@@ -7,6 +7,9 @@ public class A {
 	
 	public void m1() {
 		System.out.println(a+b);
+		
 	}
-
+public void m3() {
+	System.out.println("modified by abu");
+}
 }
