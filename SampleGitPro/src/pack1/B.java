@@ -9,5 +9,8 @@ public class B {
 	public void m4() {
 		System.out.println("modified by shaheed");
 	}
+	public void m5() {
+		System.out.println("modified by animi");
+	}
 
 }
