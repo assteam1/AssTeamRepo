@@ -6,5 +6,8 @@ public class B {
 	public void m3() {
 		System.out.println("modified by sathish");
 	}
+	public void m4() {
+		System.out.println("modified by shaheed");
+	}
 
 }
