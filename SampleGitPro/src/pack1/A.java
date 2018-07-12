@@ -1,6 +1,6 @@
 package pack1;
 
-public class A {
+public class A extends B {
 	
 	int a=10;
 	int b=10;
@@ -12,4 +12,5 @@ public class A {
 public void m3() {
 	System.out.println("modified by abu");
 }
+
 }
