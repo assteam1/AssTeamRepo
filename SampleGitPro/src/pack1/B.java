@@ -12,5 +12,8 @@ public class B {
 	public void m5() {
 		System.out.println("modified by animi");
 	}
+	public void myName(String name) {
+		System.out.println("my name is :"+name);
+	}
 
 }
